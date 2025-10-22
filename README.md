@@ -480,31 +480,6 @@ This project implements patterns from leading recommendation systems research:
 
 See [REFERENCES.md](REFERENCES.md) for full citations and links.
 
-## Examples
-
-Check out the [examples/](examples/) directory for comprehensive examples:
-
-### Basic Examples
-- **`quickstart.py`**: End-to-end training and inference walkthrough
-- **`generate_sample_data.py`**: Generate synthetic test data
-- **`catalog.csv`** & **`interactions.parquet`**: Sample data files
-
-### Production Examples
-- **`production_api.py`**: Full production API setup with monitoring
-- **`production_test_hm_dataset.py`**: H&M fashion dataset example
-- **`production_test_movielens.py`**: MovieLens movie recommendations
-- **`production_test_retailrocket.py`**: RetailRocket e-commerce example
-
-### Testing & Analysis
-- **`test_recommendations.py`**: Test recommendation quality
-- **`test_hybrid_recommendations.py`**: Test hybrid strategy
-- **`analyze_hm_brands.py`**: Brand-level analysis example
-
-### Documentation
-- **`PRODUCTION_README.md`**: Production deployment guide
-- **`PRODUCTION_API_GUIDE.md`**: API deployment best practices
-- **`TESTING_GUIDE.md`**: Testing recommendations guide
-- **`DATASET_COMPARISON.md`**: Comparison of different datasets
 
 ## Roadmap
 
