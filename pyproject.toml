@@ -9,7 +9,7 @@ description = "CPU-only hybrid recommender (co-vis + ANN + LightGBM) with tiny f
 readme = "README.md"
 requires-python = ">=3.9"
 license = "Apache-2.0"
-authors = [{ name = "Amjad"}]
+authors = [{ name = "Amjad", email = "amjadsaab.as.as@gmail.com" }]
 keywords = ["recommendation", "ANN", "LightGBM", "FAISS", "hnsw", "ranking"]
 classifiers = [
   "Programming Language :: Python :: 3",
